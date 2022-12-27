@@ -1,4 +1,4 @@
-<b>Javascript Clock</b>
+## Javascript Clock
 
 Description: A simple clock  written in javascript/html/css
 
